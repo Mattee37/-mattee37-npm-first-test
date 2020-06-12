@@ -1,0 +1,25 @@
+{
+  "name": "@mattee37/npm-first-test",
+  "version": "3.0.0",
+  "description": "First try to public a simple package",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Mattee37",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mattee37/-mattee37-npm-first-test"
+  },
+  "bugs": {
+    "url": "https://github.com/Mattee37/-mattee37-npm-first-test/issues"
+  },
+  "homepage": "https://github.com/Mattee37/-mattee37-npm-first-test.git"
+}
