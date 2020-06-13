@@ -1,6 +1,6 @@
 {
   "name": "@mattee37/npm-first-test",
-  "version": "2.5.0",
+  "version": "2.5.0-beta",
   "description": "First try to public a simple package",
   "main": "src/index.js",
   "scripts": {
