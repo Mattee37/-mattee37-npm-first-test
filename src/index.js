@@ -13,10 +13,4 @@ const users = async (c = 1) => {
   }
 };
 
-const f = async () => {
-  const r = await users(4);
-  console.log(r);
-};
-f();
-
 module.exports = { users, PI };
